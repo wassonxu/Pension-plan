@@ -5,7 +5,7 @@ Created on Sat Sep  5 12:46:31 2020
 @author: Administrator
 """
 
-# Canada Pension Plan (CPP) retirement pension / Chinese pension plan  calculation
+# retirement pension / pension plan  calculation
 
 import argparse
 
